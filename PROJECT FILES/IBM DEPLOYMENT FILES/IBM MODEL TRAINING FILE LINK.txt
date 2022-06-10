@@ -1,0 +1,3 @@
+LINK FOR THE IBM MODEL TRAINING FILE:-
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2c44fdae-8abe-4e78-a145-ab46ec9677fa/view?projectid=10aa9a6e-c7ca-42d6-910f-01139173dcea&context=cpdaas
